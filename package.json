@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "mineflayer": "latest",
+    "mineflayer": "github:PrismarineJS/mineflayer",
     "mineflayer-auto-eat": "^5.0.0"
   }
 }
