@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CafeClaroYT500k.aternos.me",
-    "port": 37965,
-    "version": "false",
+    "ip": "2771.aternos.me",
+    "port": 22559,
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
